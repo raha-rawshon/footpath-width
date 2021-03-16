@@ -1,6 +1,6 @@
 
 % Load saved data
-load net_color1;
+load net_color;
 load imageAvg;
 load size  
     % read image from testing dataset  
